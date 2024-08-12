@@ -1,7 +1,15 @@
 import Image from "next/image";
+import "./styles.css";
 
 export default function link1() {
   return (
-    <h1>esta es la pagina 1</h1>
+    <div class name {
+      constructor(parameters) {
+        
+      }
+    }>
+      <h1>Bienvenido a la Página 1</h1>
+      
+    </div>
   );
 }
